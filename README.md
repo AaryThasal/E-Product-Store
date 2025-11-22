@@ -33,7 +33,6 @@ Built using the <b>PERN Stack</b> and deployed live on <b>Render</b>.
 - **Node.js** – Server-side runtime  
 - **Render** – Hosting and deployment  
 - **HTML, CSS & JavaScript** – Front-end structure, styling, and interaction  
-- **Font Awesome & Google Fonts** – Icons and typography  
 
 ---
 
