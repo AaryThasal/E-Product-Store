@@ -36,4 +36,4 @@ Built using the <b>PERN Stack</b> and deployed live on <b>Render</b>.
 
 ---
 
-<p align="center"><b>💙 Thank you for visiting the E-Product Store!</b></p>
+<p align="center"><b> Thank you for visiting the E-Product Store!</b></p>
